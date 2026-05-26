@@ -1,0 +1,139 @@
+body.dark-mode {
+    background-color: #000 !important;
+    color: #e0e0e0;
+}
+
+body.dark-mode a {
+    color: #bb86fc;
+}
+
+body.dark-mode img {
+    filter: brightness(0.8) contrast(1.1);
+}
+
+* {
+    color: #f0f0f0 !important;
+}
+
+#HeaderContent {
+    background-color: #000 !important;
+}
+
+.imm {
+    background-color: #000 !important;
+}
+
+#pin-action-dropdown.XiG.DHH.kFh.Dl7.V0G.ho- {
+    background-color: #222;
+}
+
+:root {
+    --bg: #111;
+    --br: 9999px;
+    --hover: #333;
+}
+
+/* Search bar */
+div.Jea.KS5.XiG.ujU.zI7.iyn.Hsu {
+    background-color: var(--bg);
+    border-radius: var(--br);
+}
+
+/* Inner-search bar, Recent searches */
+div.C9q.Jea.KS5.Lfz.XiG.Zr3.haa.zI7.iyn.Hsu {
+    background-color: var(--bg);
+}
+
+/* Inner-search bar, Recent searches:hover */
+div.C9q.Jea.KS5.Lfz.TMJ.XiG.Zr3.zI7.iyn.Hsu {
+    background-color: var(--hover);
+}
+
+
+/* Pin hover link */
+div.x8f._O1.KS5.mQ8.uwe.NSs {
+    background-color: var(--bg);
+}
+
+/* Pin three dots (...) menu */
+div.Jea.b8T.dLb.zI7.iyn.Hsu {
+    background-color: var(--bg);
+    border-radius: var(--br);
+}
+
+/* Pin three dots (...) item hover */
+div.Jea.b8T.dLb.zI7.iyn.Hsu {
+    background-color: var(--bg);
+    border-radius: var(--br);
+}
+
+/* Pin three dots (...) item hover */
+div.DUt.Jea.hA-.haa.jzS.wYR.zI7.iyn.Hsu {
+    background-color: var(--hover);
+}
+
+/* Right side of navbar, two icons (excl. pfp) hover */
+div.INd.Jea.KS5.haa.mQ8.zI7.iyn.Hsu {
+    background-color: var(--hover);
+}
+
+
+/* Right side of navbar, pfp hover */
+div.INd.haa.zI7.iyn.Hsu {
+    background-color: var(--hover);
+}
+
+/* Pin link */
+div.X8m.zDA.IZT.CKL.tBJ.dyH.iFc.j1A.swG {
+    color: #bbb !important;
+}
+
+/* User pfp click dropdown */
+div.XiG.DHH.kFh.Dl7.V0G.ho- {
+    background-color: var(--bg);
+}
+
+/* div.MIw.QLY.p6V.zI7.iyn.Hsu {
+    background: linear-gradient(270deg, rgb(0 0 0) 0%, rgba(0 0 0 / 0) 100%) !important;
+}
+
+div.MIw.QLY.Rym.zI7.iyn.Hsu {
+    background: linear-gradient(90deg, rgb(0 0 0) 0%, rgba(0 0 0 / 0) 100%) !important;
+} */
+
+a.nrl._74.NtY.S9z.Lfz.CCY.DyB.mQ8.KS5.RCK.Hsu.USg.adn.F10.xD4.i1W.V92.bmw {
+    background-color: var(--bg) !important; 
+}
+
+div.Jea.XbT.jzS.ujU.zI7.iyn.Hsu {
+    overflow-x: hidden !important;
+}
+
+div.Jea.XbT.jzS.ujU.zI7.iyn.Hsu::-webkit-scrollbar {
+    width: 10px !important;
+    background-color: rgb(30 31 33) !important;
+    border-radius: 5px !important;
+}
+
+div.Jea.XbT.jzS.ujU.zI7.iyn.Hsu::-webkit-scrollbar-thumb {
+    width: 10px !important;
+    background-color: rgb(201 202 205) !important;
+    border-radius: 5px !important;
+}
+
+h1.lH1.dyH.iFc.H2s.GTB.X8m.zDA.IZT {
+    background-color: #000 !important;
+    color: rgb(251 252 255) !important
+}
+
+div.tNl.zI7.iyn.Hsu {
+    background-color: transparent !important;
+}
+
+div.FNs.GuY.zI7.iyn.Hsu {
+    background-color: #000 !important;
+}
+
+div.FNs.XiG.zI7.iyn.Hsu {
+    background: transparent !important;
+}
